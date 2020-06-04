@@ -23,6 +23,8 @@
 
 好好复习基础知识奥！
 
+Cyc保佑我能拿到理想offer！=u=
+
 ## :pencil2: 算法
 
 - [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
